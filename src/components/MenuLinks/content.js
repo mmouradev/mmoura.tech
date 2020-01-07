@@ -3,6 +3,7 @@ const links = [
     label: 'Blog',
     url: '/',
   },
+  /* TODO
   {
     label: 'Seviços',
     url: '/service/',
@@ -11,13 +12,10 @@ const links = [
     label: 'Projetos',
     url: '/project/',
   },
+  */
   {
     label: 'Sobre mim',
     url: '/about/',
-  },
-  {
-    label: 'Faça seu orçamento',
-    url: '/budget/',
   },
 ];
 
