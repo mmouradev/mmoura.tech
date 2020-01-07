@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
-export const PostBlogTitle = styled.h1`
-  font-size: 2.2rem;
+export const PageTitleText = styled.h1`
+  font-size: 3rem;
   color: #fff;
   font-weight: 700;
   text-transform: uppercase;

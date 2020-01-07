@@ -12,7 +12,14 @@ const MenuLinks = () => (
 
         return (
           <S.MenuLinksItem key={i}>
-            <S.MenuLinksLink to={url} activeClassName="active">
+            <S.MenuLinksLink
+              to={url}
+              activeClassName="active"
+              cover
+              direction="left"
+              bg="#232323"
+              duration={0.6}
+            >
               {label}
             </S.MenuLinksLink>
           </S.MenuLinksItem>
