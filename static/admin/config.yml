@@ -2,7 +2,7 @@ backend:
   name: github
   repo: mmouradev/mmoura.tech
   branch: master
-  site_domain: https://mmoura.tech
+  site_domain: mmoura.tech
 
 publish_mode: editorial_workflow
 media_folder: 'static/assets/img'
