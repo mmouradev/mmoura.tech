@@ -8,7 +8,7 @@ import Avatar from '../Avatar';
 const Profile = () => {
   const {
     site: {
-      siteMetadata: { title, position, description },
+      siteMetadata: { title, position },
     },
   } = useStaticQuery(graphql`
     query mySiteMetadata {
