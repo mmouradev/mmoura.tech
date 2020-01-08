@@ -4,6 +4,7 @@ module.exports = {
     position: `Front-end Developer`,
     description: `Um pouco mais do meu mundo como desenvolvedor front-end e outras coisas mais.`,
     author: `@mmouradev`,
+    siteUrl: 'https://mmoura.tech',
   },
   plugins: [
     `gatsby-plugin-transition-link`,

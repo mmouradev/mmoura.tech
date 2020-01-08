@@ -7,7 +7,7 @@ import SocialLinks from '../components/SocialLinks';
 
 const AboutPage = () => (
   <Layout>
-    <SEO title="About" />
+    <SEO title="Sobre mim" />
     <S.AboutWrapper>
       <S.AboutTitle>Sobre mim</S.AboutTitle>
       <S.AboutParagraph>
