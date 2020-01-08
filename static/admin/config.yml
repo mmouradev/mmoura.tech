@@ -25,5 +25,4 @@ collections:
         }
       - { label: 'Category', name: 'category', widget: 'string' }
       - { label: 'Background Tag', name: 'background', widget: 'string' }
-      - { label: 'image', name: 'thumbnail', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
