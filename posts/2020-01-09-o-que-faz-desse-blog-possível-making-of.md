@@ -96,9 +96,4 @@ Apesar de conseguir ler e escrever Markdowns puros sem ajuda de nenhum CMS resol
 
 ### Conclusão
 
-Espero que tenha gostado desse conteúdo e que tenha sido útil de alguma forma para você. Também gostaria muito de te ver aqui novamente em algum post futuro, afinal minha ideia é sempre alimentar esse blog com uma variedade de conteúdos sobre diversos assuntos que acho interessantes de serem falados. 
-
-
-
-
- 
+Espero que tenha gostado desse conteúdo e que tenha sido útil de alguma forma para você. Também gostaria muito de te ver aqui novamente em algum post futuro, afinal minha ideia é sempre alimentar esse blog com uma variedade de conteúdos sobre diversos assuntos que acho interessantes de serem falados. =
