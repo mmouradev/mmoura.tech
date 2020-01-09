@@ -37,6 +37,7 @@ Esse vai ser rápido pois se não conhece ainda deveria ir agora conhecer rsrs..
 Todos os componentes criados com React faço também um arquivo na mesma pasta chamado **styled.js** que basicamente segura todo o estilo do componentes, aqui vai um exemplo do código:
 
 ```js
+<<<<<<< HEAD
 import styled from 'styled-components';
 import media from 'styled-media-query';
 
@@ -79,6 +80,50 @@ export const LayoutMain = styled.main`
     padding: 0 0 3rem;
   `}
 `;
+=======
+import styled from 'styled-components';
+import media from 'styled-media-query';
+
+export const LayoutWrapper = styled.section`
+  display: flex;
+  ${media.lessThan('large')`
+    flex-direction: column;
+    padding-top: 4.5rem;
+  `}
+`;
+
+export const LayoutMain = styled.main`
+  min-height: 100vh;
+  width: 100%;
+  padding: 2.5rem 4rem 0px 22rem;
+  transition: background 0.5s ease 0s, color 0.5s ease 0s;
+
+  ${media.lessThan('large')`
+    padding: 0 0 3rem;
+  `}
+`;
+import styled from 'styled-components';
+import media from 'styled-media-query';
+
+export const LayoutWrapper = styled.section`
+  display: flex;
+  ${media.lessThan('large')`
+    flex-direction: column;
+    padding-top: 4.5rem;
+  `}
+`;
+
+export const LayoutMain = styled.main`
+  min-height: 100vh;
+  width: 100%;
+  padding: 2.5rem 4rem 0px 22rem;
+  transition: background 0.5s ease 0s, color 0.5s ease 0s;
+
+  ${media.lessThan('large')`
+    padding: 0 0 3rem;
+  `}
+`;
+>>>>>>> fc05a993698a743e8a767a4dd78c7812572f0f29
 ```
 
 ### Markdown + GraphQL = Remark
