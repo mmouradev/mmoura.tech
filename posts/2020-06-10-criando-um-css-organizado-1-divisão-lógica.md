@@ -30,11 +30,11 @@ Opa, tudo certo por ai? Então, resolvi fazer esse post como o início de uma se
 
 Aqui temos um seletor CSS beeeeem longo e bem confuso, não acha?! Pois bem, porque digo que ela é confusa? Pelo simples fato de que a cada linha ela está tralhando com uma propriedade distinta, percebe o como é mais difícil entender que o width e o height estão definidos quando estão em linhas tão separadas e pode parecer um absurdo, mas seletores escritos dessa maneira acontecem com bastante frequência, geralmente começamos a estrutura bem organizada, mas encontramos um novo bug e inserimos a correção ao final do seletor sem se preocupar com a estética dele e isso pode matar a manutenibilidade do CSS.
 
-#### Não existe forma correta de fazer esse agrupamento
+### Não existe forma correta de fazer esse agrupamento
 
 Você pode agrupar da maneira que mais gostar, mas eu fortemente recomendo a seguinte forma que vou indicar:
 
-##### Agrupamento lógico
+#### Agrupamento lógico
 
 Este é o método que considero mais produtivo, mas também que mais precisa de documentação e treino, para que não aconteçam divergências no decorrer do projeto. É importante garantir que todas as propriedades foram mapeadas para evitar propriedades "esquecidas" em meio ao código.
 
