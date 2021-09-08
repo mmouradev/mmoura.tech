@@ -12,15 +12,7 @@ const AboutPage = () => (
       <S.AboutTitle>Sobre mim</S.AboutTitle>
       <S.AboutParagraph>
         Me chamo Matheus Souza Moura, nasci em Jataí/GO, atuo como desenvolvedor
-        Front-end na{' '}
-        <a
-          href="https://indexis.digital"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Indexis
-        </a>
-        , amante de jogos e em certos tempos aspirante a jogador profissional.
+        Front-end na Set Rastreador, amante de jogos e em certos tempos aspirante a jogador profissional.
       </S.AboutParagraph>
       <S.AboutParagraph>
         Todo meu conhecimento foi adquirido com autodidatismo, assim busco

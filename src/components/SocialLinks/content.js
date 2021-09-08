@@ -4,12 +4,8 @@ const links = [
     url: 'https://github.com/mmouradev/',
   },
   {
-    label: 'Twitter',
-    url: 'https://twitter.com/mmoura_dev',
-  },
-  {
     label: 'Instagram',
-    url: 'https://www.instagram.com/mmoura.dev/',
+    url: 'https://www.instagram.com/koenxt/',
   },
   {
     label: 'Twitch',
